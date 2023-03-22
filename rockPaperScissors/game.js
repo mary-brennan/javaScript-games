@@ -21,7 +21,7 @@ let wins = 0;
 let losses = 0;
 let ties = 0;
 
-/* DO NOT CHANGE THE CODE ABOVE */
+
 
 /***************************** HELPER FUNCTIONS ******************************/
 function printHelp() {
@@ -119,7 +119,7 @@ if (typeof require !== 'undefined' && require.main === module) {
 }
 
 /**************************************************************************/
-/* DO NOT CHANGE THE CODE BELOW */
+
 module.exports = {
   printHelp,
   getWinner,
