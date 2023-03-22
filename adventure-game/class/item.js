@@ -5,9 +5,6 @@ class Item {
     this.room = room;
 
   }
-
-
-
 }
 
 module.exports = {
